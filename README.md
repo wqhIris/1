@@ -105,4 +105,4 @@ This repository is based on the following GitHub repos. Thanks for their wonderf
 - Differential Gaussian Rasterization: https://github.com/graphdeco-inria/diff-gaussian-rasterization
 
 # License
-The license for original code is TBD. (Third-party](./THIRD_PARTY_NOTICES.md) licenses do not cover the entire project. The final license and citation will be added before public release.
+The license for original code is TBD. [Third-party](./THIRD_PARTY_NOTICES.md) licenses do not cover the entire project. The final license and citation will be added before public release.
